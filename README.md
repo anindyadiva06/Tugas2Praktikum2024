@@ -1,6 +1,9 @@
 # Tugas Pertemuan 2
+Penjelasan
 
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/5ae2d406-9ff3-4287-a0f8-86e3ac3c9c06)
+
+![image](https://github.com/user-attachments/assets/77192c2c-6f33-4113-8427-3ad4222364f6)
+
 
